@@ -19,11 +19,11 @@ To run this project using Qt Creator, follow these steps:
 4. Build Project - Click the Build button (hammer icon) or press Ctrl + B to build the project.
 5. Run Project - Click the Run button (green play icon) or press Ctrl + R to run the project.
 
-### External Libraries
+## External Libraries
 
 Qt 6.7.2: Used for the graphical user interface and other functionalities.
 
-### Features
+## Features
 
 - Plan meals for specific dates.
 - Track ingredients in the inventory.
