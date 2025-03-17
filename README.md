@@ -25,8 +25,8 @@ Qt 6.7.2: Used for the graphical user interface and other functionalities.
 
 ### Features
 
-Plan meals for specific dates.
-Track ingredients in the inventory.
-Generate grocery lists based on meal plans and current inventory for a selected day.
+- Plan meals for specific dates.
+- Track ingredients in the inventory.
+- Generate grocery lists based on meal plans and current inventory for a selected day.
 Add and remove ingredients from the inventory.
 View meal information for selected dates.
