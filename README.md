@@ -1,4 +1,4 @@
-# 3307 Part 3: MealMate - Meal Planning and Grocery Tracking App
+# MealMate - Meal Planning and Grocery Tracking App
 
 ## Description
 
